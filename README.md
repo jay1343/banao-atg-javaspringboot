@@ -26,4 +26,6 @@ after login if normal user the will show simple page with his name.
 and for Admin we list all users.
 
 I also used JWT token and Sessions for session tracking and authentication.
-there are some parts that I would have been did better than current just because I didnt have much knowledg of thymeleaf I have exposure to the angular so it could have been better.
+there are some parts that I would have been did better than current just because I didnt have much knowledge of thymeleaf.
+I have exposure to the angular so it could have been better.
+And there are configurations I can use for routing to pages and the differntiate between roles using xml file.
